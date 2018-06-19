@@ -36,3 +36,9 @@ function buildString(movie) {
   result += "\"" + movie.title + "\" - " + movie.rating + " stars";
   return result;
 }
+
+// output should be:
+// You have watched "Les Miserables" - 5 stars
+// You have watched "In Bruges" - 4 stars
+// You have watched "Frozen" - 3.5 stars
+// You have not seen "Mad Max Fury Road" - 0 stars
