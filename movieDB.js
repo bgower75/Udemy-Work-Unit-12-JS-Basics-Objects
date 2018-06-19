@@ -1,23 +1,23 @@
 var movies = [
     {
       title: "Les Miserables",
-      hasWatched: false,
-      rating: 3.5
+      hasWatched: true,
+      rating: 5
     },
     {
       title: "In Bruges",
       hasWatched: true,
-      rating: 5
+      rating: 4
     },
     {
       title: "Frozen",
-      hasWatched: false,
-      rating: 4.5
+      hasWatched: true,
+      rating: 3.5
     },
     {
       title: "Mad Max Fury Road",
-      hasWatched: true,
-      rating: 5
+      hasWatched: false,
+      rating: 0
     }
 ]
 
